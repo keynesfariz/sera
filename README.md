@@ -111,3 +111,5 @@ Run this command to test **Get All Posts API**, **Get a Post by ID API**, and **
 ```sh
 $ vendor/bin/phpunit
 ```
+### Bonus(?)
+**Denom Filter** in ```app/Controllers/DenomFilterController.php``` that can be accessed at **GET** ```api-url.test/denom-filter```
